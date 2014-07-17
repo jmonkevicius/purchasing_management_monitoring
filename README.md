@@ -32,4 +32,4 @@ Technologies which will be used:
 
 
 
-Credits: jmonkevicius, ..., ...
+Credits: jmonkevicius, apoluden, tomasra
