@@ -1,8 +1,0 @@
-body {
-  background-image: url("images/pentagon.png");
-}
-<style>
- .centered-form {
-  margin-top: 150px;
-}
-</style>
